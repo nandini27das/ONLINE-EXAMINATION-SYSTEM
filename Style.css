@@ -1,0 +1,100 @@
+﻿* {
+    margin=0;
+    padding=0;
+}
+section{
+    background-image:url("pics/home-bg.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.container {
+    width: 47vw;
+    height: 57vh;
+    background-image: url("pics/bgp.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+span{
+    font-size:2vw;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    display:block;
+    
+}
+.container  .inner1{
+    width:50%;
+    height:100%;
+    left:0;
+    position:absolute;
+    text-align:center;
+    margin-top:5%;
+}
+.inner1 img{
+    display:inline-block;
+    width:70%;
+    height:40%;
+    margin-bottom:2%;
+    padding: 4% 4%;
+}
+.txt {
+    display: inline-block;
+    width: 60%;
+    height:10%;
+    background:black;
+    text-decoration:none;
+    font-size:1.1vw
+}
+.log {
+    display: inline-block;
+    width: 40%;
+    height: 8%;
+    margin-bottom: 7vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3vw;
+    background-color: #ab23df;
+    color: white;
+    text-decoration:none;
+}
+.container .inner2 {
+    width: 50%;
+    height: 100%;
+    right: 0;
+    position: absolute;
+    text-align: center;
+    background:rgba(255,252,252,0.92);
+}
+h3{
+    font-size:2vw;
+    margin-bottom:5%;
+    margin-top:6%;
+    font-family:'Times New Roman', Times, serif;
+}
+input[type=text],input[type=password]{
+    width:80%;
+    height:10%;
+    margin-bottom:3%;
+    border:0;
+    background-color:transparent;
+    border-bottom:1px solid #4b4040;
+}
+input[placeholder]{
+    font-family:'Bitter';
+    font-size:1.4vw;
+    padding-left:3%;
+}
+.btn{
+    width:40%;
+    height:10%;
+    margin-bottom:7vh;
+    font-family:'Times New Roman', Times, serif;
+    font-size:1.3vw;
+    background-color:#12a312;
+    color:white;
+    border:1px solid;
+}

@@ -1,0 +1,7 @@
+e:\nandini data\documents\visual studio 2013\Projects\ONEXSYS\ONEXSYS\bin\ONEXSYS.dll.config
+e:\nandini data\documents\visual studio 2013\Projects\ONEXSYS\ONEXSYS\bin\ONEXSYS.dll
+e:\nandini data\documents\visual studio 2013\Projects\ONEXSYS\ONEXSYS\bin\ONEXSYS.pdb
+e:\nandini data\documents\visual studio 2013\Projects\ONEXSYS\ONEXSYS\obj\Debug\ONEXSYS.dll
+e:\nandini data\documents\visual studio 2013\Projects\ONEXSYS\ONEXSYS\obj\Debug\ONEXSYS.pdb
+E:\NANDINI DATA\Documents\Visual Studio 2013\Projects\ONEXSYS\ONEXSYS\obj\Debug\ONEXSYS.csproj.AssemblyReference.cache
+E:\NANDINI DATA\Documents\Visual Studio 2013\Projects\ONEXSYS\ONEXSYS\obj\Debug\ONEXSYS.csproj.CoreCompileInputs.cache
